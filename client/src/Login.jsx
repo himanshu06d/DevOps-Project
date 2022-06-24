@@ -16,7 +16,7 @@ function Login () {
                         <Link to='/LoginH'> <button id ='Hotel2'>Hotel</button> </Link> 
                     </div> 
                     <br /><br />
-                    <input type = 'email' placeholder="Enter your email" name='email'  id="email1"></input><br /><br/>
+                    <input type = 'email' placeholder="Enter ayush" name='email'  id="email1"></input><br /><br/>
                     <input type = 'password' placeholder="Enter your Password" name='password'  id="password1"></input> <br /> <br />
                     {/*<Link to ="" id="forgot"><b>Forgot Password?</b></Link> <br />*/}
                     <button type='submit' data-aos="fade-zoom-in">Login</button>
